@@ -11,8 +11,8 @@
 ## 我的 2023-2024 总结
 
 * 我正在记录每日学习与成长，希望让时间的痕迹更加**具体而有意义**。
-* 查看我的 **2023.9-2024 年度总结**：
-  [我的年度回顾](https://github.com/Whuichenggong/2024/blob/main/README.md)
+  [2024年总结](https://github.com/Whuichenggong/2024/blob/main/README.md)
+  [2025年度总结](https://github.com/Zhonghe-zhao/DailyBlog/issues/91)
 
 ---
 
