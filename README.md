@@ -12,9 +12,9 @@
 
 * 我正在记录每日学习与成长，希望让时间的痕迹更加**具体而有意义**。
 
-  [2024年总结](https://github.com/Whuichenggong/2024/blob/main/README.md)
+  [2024](https://github.com/Whuichenggong/2024/blob/main/README.md)
   
-  [2025年度总结](https://github.com/Zhonghe-zhao/DailyBlog/issues/91)
+  [2025](https://github.com/Zhonghe-zhao/DailyBlog/issues/91)
 
 ---
 
